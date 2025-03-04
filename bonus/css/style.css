@@ -5,5 +5,9 @@
 
 .position {
     position: relative;
-    right: 40px;
+    right: 41px;
+}
+
+button {
+    align-self: center;
 }
